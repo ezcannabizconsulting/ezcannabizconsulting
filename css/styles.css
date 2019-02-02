@@ -3,12 +3,39 @@
 }
 
 html {
-
 }
 
 body {
   text-align: center;
   font-size: 62.5%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+header {
+}
+
+.noselect {
+-webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+     -moz-user-select: none; /* Firefox */
+      -ms-user-select: none; /* Internet Explorer/Edge */
+          user-select: none; /* Non-prefixed version, currently
+                                supported by Chrome and Opera */
+}
+
+header .logo {
+   
+}
+
+header .logo-text {
+  font-weight: 600;
+}
+
+#ez {
+  font-size: 4rem;
+}
+
+.logo-text-else {
+  font-size: 3rem;
+}
