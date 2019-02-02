@@ -29,13 +29,27 @@ header .logo {
 }
 
 header .logo-text {
+  font-family: 'Merriweather', serif;
   font-weight: 600;
 }
 
 #ez {
   font-size: 4rem;
+  letter-spacing: 5px;
 }
 
-.logo-text-else {
+#cannabiz {
   font-size: 3rem;
+}
+
+#consulting {
+  letter-spacing: 2px;
+  font-size: 3rem;
+}
+
+
+.contact {
+  margin: 20% auto 0;
+  /* width: 60%; */
+  font-size: 1.2rem;
 }
