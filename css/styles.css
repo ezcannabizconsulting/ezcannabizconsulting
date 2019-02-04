@@ -33,6 +33,10 @@ header .logo-text {
   font-weight: 600;
 }
 
+header h3 {
+  font-size: 1.4rem;
+}
+
 #ez {
   font-size: 4rem;
   letter-spacing: 5px;
